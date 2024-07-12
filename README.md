@@ -28,9 +28,22 @@ Air quality monitoring using IoT inspires environmental awareness and public hea
 - Empowering communities to engage in air quality management efforts.
 - Promoting sustainable development and healthier living environments globally.
 
-## Demo 
 
-## Screenshot
+## Code
+![WhatsApp Image 2024-07-12 at 19 52 25](https://github.com/user-attachments/assets/25faf6d7-c9f6-4f32-b556-a8eb144f2e2f)        
+
+
+## Hardware Setup
+![WhatsApp Image 2024-07-12 at 19 46 47](https://github.com/user-attachments/assets/771e65ed-6e63-43d4-8162-32437696c400)                  
+
+## Output Screen
+![WhatsApp Image 2024-07-12 at 19 50 05](https://github.com/user-attachments/assets/5f864bf7-d05d-47d3-b795-ca331db2b4d7)
+
+
+## Demo video 
+https://github.com/user-attachments/assets/a77cd47c-e170-41cd-a635-3dad419e351e
+
+
  
 ## Installation
 
@@ -39,7 +52,7 @@ Air quality monitoring using IoT inspires environmental awareness and public hea
    git clone https://github.com/Keerthana1417/AIR-QUALITY-MONITORING 
 2. Navigate to the project directory
    
-   cd  AIR-QUALITY-MONITORING 
+   cd AIR-QUALITY-MONITORING 
 
 ## Usage
 
